@@ -122,7 +122,7 @@
 									<form>
 										<div class="form-group">
 											<label  for="exampleInputEmail1">Ten tai lieu</label>
-											<input  type="email" class="form-control" id="exampleInputID" placeholder="NameExample">  
+											<input  type="email" class="form-control" id="exampleInputID" cols="50" placeholder="NameExample">  
 										</div>
 
 										<div class="form-group">
